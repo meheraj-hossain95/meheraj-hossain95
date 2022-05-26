@@ -3,7 +3,7 @@
 #### Student
 
 
-I'm currently a student of East West University
+I'm a student of East West University.
 
 Skills: HTML / CSS / C
 
