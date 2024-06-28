@@ -1,8 +1,5 @@
 ![Student]
 <h1 align="center">Hi 👋, I'm Meheraj Hossain</h1>
-<h3 align="center">A Passionate Programmer From Bangladesh.</h3>
-- 🔭 I’m currently working on a project.<br>
-- 🌱 I’m currently learning C Language.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraj-hossain95&label=Profile%20views&color=0e75b6&style=flat" alt="meheraj-hossain95" /> </p>
 
