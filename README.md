@@ -1,54 +1,102 @@
-<h1 align="center">Hi, I'm Meheraj Hossain 👋🏼</h1>
+<div align="center">
+
+# Meheraj Hossain
+
+### Aspiring ML Engineer & Researcher | Competitive Programmer
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sM3pndTg3YTQ4YTY5Zmpvd2dzdG9rMzhjemR0czFzZWpkcXExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meheraj-hossain95&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/meheraj-hossain95?label=Followers&style=for-the-badge&color=0f172a" alt="GitHub Followers" />
+</div>
+
 <br>
-<br>
-<img align="right" alt="Coding" width="300" height="300" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meheraj-hossain95&label=Profile%20views&color=0e75b6&style=flat" alt="meheraj-hossain95" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meheraj-hossain95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meheraj-hossain95" height="30" width="40" /></a>
-<a href="https://fb.com/meherajhossain.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meherajhossain.95" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/meherajhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meherajhossain" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/meheraj_hossain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="meheraj_hossain_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/meheraj_hossain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meheraj_hossain_" height="30" width="40" /></a>
-</p>
+---
 
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+<img align="right" alt="Professional Development" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJkc3NtMm0zcjdveG91ZTZucXViODk2cHQ4bHZqN2F0emx6dXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
+
+I'm a data science student passionate about machine learning, building my skills through hands-on projects like audio classification and model deployment.
+
+**Current Focus Areas:**
+- Machine Learning Implementation
+- Deep Learning & Neural Networks
+- Audio Signal Processing & Analysis
+- Data Science Projects
+
+<br clear="both"/>
+
+---
+
+## 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/meheraj-hossain95" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
-</p>
+<a href="https://fb.com/meherajhossain.95" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile"/>
+</a>
+<a href="https://www.codechef.com/users/meherajhossain" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+</a>
+<a href="https://codeforces.com/profile/meheraj_hossain_" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
+</a>
+<a href="https://www.leetcode.com/meheraj_hossain_" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+</a>
 
+</div>
 
-</br></br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meheraj-hossain95&show_icons=true&locale=en&layout=compact" alt="meheraj-hossain95" width="40%"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meheraj-hossain95&show_icons=true&locale=en" alt="meheraj-hossain95" /></p>
+---
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="50" alt="Programming Languages"/>
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=html,css" height="50" alt="Web Technologies"/>
+
+### Data Science & Analytics
+<div style="margin: 10px 0;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</div>
+
+### Development Tools & Platforms
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="50" alt="Development Tools"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓%20Learning-Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/🔧%20Building-Scalable%20Solutions-F59E0B?style=for-the-badge" alt="Scalable Solutions"/>
+<img src="https://img.shields.io/badge/🤝%20Open%20to-Professional%20Opportunities-7C3AED?style=for-the-badge" alt="Professional Opportunities"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ありがとう 
+<img src="https://img.shields.io/badge/�%20Arigato-Thank%20You-FF6B6B?style=for-the-badge&logoColor=white" alt="Arigato"/>
+
+</div>
+
