@@ -1,13 +1,13 @@
 <div align="center">
 
-# Meheraj Hossain
+# Hello, I'm Meheraj Hossain
 
 ### Aspiring ML Engineer & Researcher | Competitive Programmer
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sM3pndTg3YTQ4YTY5Zmpvd2dzdG9rMzhjemR0czFzZWpkcXExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 </div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=meheraj-hossain95&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/meheraj-hossain95?label=Followers&style=for-the-badge&color=0f172a" alt="GitHub Followers" />
@@ -23,7 +23,7 @@
 
 I'm a data science student passionate about machine learning, building my skills through hands-on projects like audio classification and model deployment.
 
-**Current Focus Areas:**
+**Areas I’m Currently Focusing On:**
 - Machine Learning Implementation
 - Deep Learning & Neural Networks
 - Audio Signal Processing & Analysis
@@ -57,7 +57,7 @@ I'm a data science student passionate about machine learning, building my skills
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
@@ -85,9 +85,9 @@ I'm a data science student passionate about machine learning, building my skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓%20Learning-Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/🔧%20Building-Scalable%20Solutions-F59E0B?style=for-the-badge" alt="Scalable Solutions"/>
-<img src="https://img.shields.io/badge/🤝%20Open%20to-Professional%20Opportunities-7C3AED?style=for-the-badge" alt="Professional Opportunities"/>
+<img src="https://img.shields.io/badge/%20Learning-Machine%20Learning-2563EB?style=for-the-badge" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/%20Building-Scalable%20Solutions-F59E0B?style=for-the-badge" alt="Scalable Solutions"/>
+<img src="https://img.shields.io/badge/%20Open%20to-Professional%20Opportunities-7C3AED?style=for-the-badge" alt="Professional Opportunities"/>
 
 </div>
 
