@@ -24,8 +24,8 @@
 I'm a data science student passionate about machine learning, building my skills through hands-on projects like audio classification and model deployment.
 
 **Areas I’m Currently Focusing On:**
+- Neural Networks
 - Machine Learning Implementation
-- Deep Learning & Neural Networks
 - Audio Signal Processing & Analysis
 - Data Science Projects
 
