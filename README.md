@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Professional Development" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJkc3NtMm0zcjdveG91ZTZucXViODk2cHQ4bHZqN2F0emx6dXJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"/>
+<img align="right" alt="Professional Development" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm81ZzZmdW5mODE3Z2p5N29mMTkwdmxpc3BsNmF6eHhuNWUyM3RhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQlAWZ8toHuqQ/giphy.gif"/>
 
 I'm a data science student passionate about machine learning, building my skills through hands-on projects like audio classification and model deployment.
 
