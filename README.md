@@ -4,7 +4,7 @@
 
 ### Aspiring ML Engineer & Researcher | Competitive Programmer
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sM3pndTg3YTQ4YTY5Zmpvd2dzdG9rMzhjemR0czFzZWpkcXExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4NzJnMHZ2NTJoZ3M5eTEyOTk4N2lycHA0MmE0cGJkY3Y0MG9rZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duFclbm7D3cDVNhJLq/giphy.gif" />
 
 </div>
 <br>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Professional Development" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm81ZzZmdW5mODE3Z2p5N29mMTkwdmxpc3BsNmF6eHhuNWUyM3RhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQlAWZ8toHuqQ/giphy.gif"/>
+<img align="right" alt="Professional Development" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1sM3pndTg3YTQ4YTY5Zmpvd2dzdG9rMzhjemR0czFzZWpkcXExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 I'm a data science student passionate about machine learning, building my skills through hands-on projects like audio classification and model deployment.
 
