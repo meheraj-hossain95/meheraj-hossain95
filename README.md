@@ -59,7 +59,7 @@ I'm a data science student passionate about machine learning, building my skills
 
 ## 🛠️ Tools & Technologies
 
-<div align="center">
+<div align="left">
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="50" alt="Programming Languages"/>
