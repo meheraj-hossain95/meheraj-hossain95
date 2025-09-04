@@ -52,10 +52,7 @@ I’m a data science student learning and practicing machine learning through ha
 
 </div>
 
----
-
 ## 🏆 Competitive Programming Profiles
-
 <div align="center">
   <a href="https://codeforces.com/profile/meheraj_hossain_">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -67,9 +64,6 @@ I’m a data science student learning and practicing machine learning through ha
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
-
----
-
 
 ## 🤝 Connect With Me
 
@@ -88,13 +82,13 @@ I’m a data science student learning and practicing machine learning through ha
   </a>
 </div>
 
-
 ---
 
 <div align="center">
 
 ## ありがとう 
-<img src="https://img.shields.io/badge/�%20Arigato-Thank%20You-FF6B6B?style=for-the-badge&logoColor=white" alt="Arigato"/>
+<img src="https://img.shields.io/badge/🤝%20Arigato-Thank%20You-4CAF50?style=for-the-badge&logoColor=white" alt="Arigato"/>
+
 
 </div>
 
