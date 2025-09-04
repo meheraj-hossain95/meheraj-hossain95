@@ -22,7 +22,7 @@ I’m a data science student. I like learning ML and making small projects to un
 <br clear="both"/>
 </div>
 
-## 🚀 Tech & Profile
+## 💻 Languages & Links
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
