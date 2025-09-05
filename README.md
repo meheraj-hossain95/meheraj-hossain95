@@ -17,7 +17,7 @@ I’m a data science student. I like learning ML and making small projects to un
 
 - NLP: Toxic/Abusive Comment Detection in Bangla
 - Personal productivity desktop application
-- AUDIO: Audio classification and related projects
+- Audio: Audio classification and related projects
 
 <br clear="both"/>
 </div>
