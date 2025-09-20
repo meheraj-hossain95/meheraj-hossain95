@@ -16,7 +16,7 @@ I’m a data science student. I like learning ML and making small projects to un
 **Currently working on:**
 
 - NLP: Toxic/Abusive Comment Detection in Bangla
-- Personal productivity desktop application
+- Creating Dataset
 - Audio: Audio classification and related projects
 
 <br clear="both"/>
