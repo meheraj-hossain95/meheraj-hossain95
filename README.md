@@ -15,8 +15,8 @@ I’m a data science student. I like learning ML and making small projects to un
 
 **Currently working on:**
 
-- NLP: Toxic/Abusive Comment Detection in Bangla
-- Creating Dataset
+- ML project
+- Go project
 - Audio: Audio classification and related projects
 
 <br clear="both"/>
@@ -27,7 +27,7 @@ I’m a data science student. I like learning ML and making small projects to un
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,html,css,pytorch,sklearn,pkl,flask,ubuntu,vscode,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,python,go,c,java,html,css,pytorch,sklearn,pkl,flask,ubuntu,vscode,git,github)](https://skillicons.dev)
   
 
 <h3 align="left">Find me on:</h3>
