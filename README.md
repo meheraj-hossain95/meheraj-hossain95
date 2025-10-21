@@ -2,28 +2,6 @@
 
 # Hello, I'm Meheraj Hossain
 
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Aspiring+ML+Engineer+%26+Researcher;Competitive+Programmer" alt="Typing SVG" />
-</div>
-
-## 👨‍💻 About Me
-
-<div align="left">
-<img align="right" alt="Coding Animation" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NhOXg1bTRoOGVjdGw1enM0ZzVodThtYXV0N2JnbWtoZWFvamxxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"/>
-I’m a data science student. I like learning ML and making small projects to understand it better.<br><br>
-
-**Currently working on:**
-
-- ML project
-- Go project
-- Audio: Audio classification and related projects
-
-<br clear="both"/>
-</div>
-
-## 💻 Languages & Links
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   
